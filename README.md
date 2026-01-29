@@ -1,4 +1,4 @@
-# Discord Auto Bot
+# Discord Auto Bot.
 
 Discord Auto Bot is an automated bot that can reply to messages on Discord using Google Gemini AI or messages from a text file. This bot supports multiple accounts and channels.
 
